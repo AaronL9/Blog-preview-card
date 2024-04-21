@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-Social links profile quick view
+Blog preview card quick view
 ![](./assets/images/quick-look.png)
 
 ### Links
